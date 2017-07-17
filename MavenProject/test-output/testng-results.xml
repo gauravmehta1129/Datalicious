@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="5" failed="0" total="5" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3362" started-at="2017-07-17T16:27:50Z" finished-at="2017-07-17T16:27:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3362" started-at="2017-07-17T16:27:50Z" finished-at="2017-07-17T16:27:54Z">
+      <class name="STTA.MavenProject.webdriverTest">
+        <test-method status="FAIL" signature="setUp()[pri:0, instance:STTA.MavenProject.webdriverTest@22a67b4]" name="setUp" is-config="true" duration-ms="0" started-at="2017-07-17T21:57:50Z" finished-at="2017-07-17T21:57:50Z">
+          <exception class="java.lang.NoClassDefFoundError">
+            <message>
+              <![CDATA[org/openqa/selenium/browserlaunchers/Proxies]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NoClassDefFoundError: org/openqa/selenium/browserlaunchers/Proxies
+	at org.openqa.selenium.phantomjs.PhantomJSDriverService.createDefaultService(PhantomJSDriverService.java:178)
+	at org.openqa.selenium.phantomjs.PhantomJSDriver.<init>(PhantomJSDriver.java:99)
+	at org.openqa.selenium.phantomjs.PhantomJSDriver.<init>(PhantomJSDriver.java:89)
+	at STTA.MavenProject.webdriverTest.setUp(webdriverTest.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:641)
+	at org.testng.TestRunner.run(TestRunner.java:609)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+Caused by: java.lang.ClassNotFoundException: org.openqa.selenium.browserlaunchers.Proxies
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 26 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NoClassDefFoundError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="testCaseOne()[pri:0, instance:STTA.MavenProject.webdriverTest@22a67b4]" name="testCaseOne" duration-ms="4" started-at="2017-07-17T21:57:54Z" finished-at="2017-07-17T21:57:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseOne -->
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:STTA.MavenProject.webdriverTest@22a67b4]" name="tearDown" duration-ms="3" started-at="2017-07-17T21:57:54Z" finished-at="2017-07-17T21:57:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="TestcaseThree()[pri:0, instance:STTA.MavenProject.webdriverTest@22a67b4]" name="TestcaseThree" duration-ms="8" started-at="2017-07-17T21:57:54Z" finished-at="2017-07-17T21:57:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestcaseThree -->
+        <test-method status="SKIP" signature="TestCaseFour()[pri:0, instance:STTA.MavenProject.webdriverTest@22a67b4]" name="TestCaseFour" duration-ms="3" started-at="2017-07-17T21:57:54Z" finished-at="2017-07-17T21:57:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCaseFour -->
+        <test-method status="SKIP" signature="TestCaseFive()[pri:0, instance:STTA.MavenProject.webdriverTest@22a67b4]" name="TestCaseFive" duration-ms="3" started-at="2017-07-17T21:57:54Z" finished-at="2017-07-17T21:57:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCaseFive -->
+        <test-method status="SKIP" signature="exit()[pri:0, instance:STTA.MavenProject.webdriverTest@22a67b4]" name="exit" is-config="true" duration-ms="0" started-at="2017-07-17T21:57:54Z" finished-at="2017-07-17T21:57:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- STTA.MavenProject.webdriverTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

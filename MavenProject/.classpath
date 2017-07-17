@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/browsermob-proxy-2.1.4/browsermob-core-2.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/browsermob-proxy-2.1.4/browsermob-core-2.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/browsermob-proxy-2.1.4/browsermob-rest-2.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/browsermob-proxy-2.1.4/browsermob-rest-2.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/browsermob-proxy-2.1.4/lib/browsermob-dist-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/ant-1.6.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/antlr-2.7.5h3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/aopalliance.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/cglib-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/cglib-nodep-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/client-combined-3.0.0-beta2-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/commons-io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/db4o-6.4.14.8131-java5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/easymock.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/freemarker-2.3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/guava-testlib-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/guice-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/hibernate-entitymanager.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/hibernate-search.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/htmlunit-2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/jarjar-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/javassist.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/javax.inject.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/javax.inject-tck.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/javax-inject.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/jaxen-1.1-beta-7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/jboss-archive-browsing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/jdiff.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/jetty-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/jetty-io-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/jetty-util-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/jetty-util-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/jsp-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/jsp-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/jsr305.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/munge.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/ognl-2.6.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/ognl-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/phantomjsdriver-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/safesax.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/selenium-java-2.47.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/selenium-java-2.47.1-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/selenium-server-standalone-2.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/spring-beans.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/spring-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/struts2-core-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/truth-0.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/websocket-api-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/websocket-client-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/websocket-common-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/xerces.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/xwork-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/ExternalLibs/xwork-core-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/har-reader-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/har-reader-2.0.3.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
